@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 AI Slop Factory
+
 AI Slop 공장
 <!--
 **luxbiter/luxbiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
